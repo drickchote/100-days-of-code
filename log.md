@@ -23,3 +23,11 @@
 **Thoughts:** I struggled with KeyboardAvoidingView and BackgroundImage, I had to use Image instead of BackgroundImage and use KeyboardAvoidingView with different properties for android and ios. I think this kind of experiences is what makes us good software engineers.
 
 **Link to work:** [Crypto Tracking](https://github.com/drickchote/Crypto-tracking)
+
+### Day 3: January 30, 2023
+
+**Today's Progress**: I spend some time refactoring my cryptotracker app and deploying it on playstore.
+
+**Thoughts:** Even having worked around 2 years as mobile developer, thats my first deployment all by my self. I took a weight off my mind.
+
+**Link to work:** [Crypto Tracking](https://github.com/drickchote/Crypto-tracking)
