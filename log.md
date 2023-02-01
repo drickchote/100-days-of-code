@@ -31,3 +31,11 @@
 **Thoughts:** Even having worked around 2 years as mobile developer, thats my first deployment all by my self. I took a weight off my mind.
 
 **Link to work:** [Crypto Tracking](https://github.com/drickchote/Crypto-tracking)
+
+### Day 4: January 31, 2023
+
+**Today's Progress**: I setup react native testing library and jest on my crypto tracking personal app. I spend a lot of time trying to making working and fixing errors, it's working now but now why yet.
+
+**Thoughts:** There are no good documentation about react native testing library with typescript, I had to try some things, it works, but know I have to spend some time trying to undestand why. Maybe I make some PR for react native testing library with my project example.
+
+**Link to work:** [Crypto Tracking](https://github.com/drickchote/Crypto-tracking/tree/testing-library-setup)
