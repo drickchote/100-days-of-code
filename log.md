@@ -43,3 +43,9 @@
 ##### Day 5: February 01, 2023
 
 **Today's Progress**: I study react-native-testing-library and trying each match and undestand its use.
+
+##### Day 6: February 02, 2023
+
+**Today's Progress**: I learned and practiced three.js, a javascript library to render 3D elements. Tomorrow I'm going to use it to build a game at the Fubajam event, a game event at my university.
+
+**Thoughts:** This library is really powerful and I'm exciting for explore where else I can use it
