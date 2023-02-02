@@ -39,3 +39,7 @@
 **Thoughts:** There are no good documentation about react native testing library with typescript, I had to try some things, it works, but know I have to spend some time trying to undestand why. Maybe I make some PR for react native testing library with my project example.
 
 **Link to work:** [Crypto Tracking](https://github.com/drickchote/Crypto-tracking/tree/testing-library-setup)
+
+##### Day 5: February 01, 2023
+
+**Today's Progress**: I study react-native-testing-library and trying each match and undestand its use.
