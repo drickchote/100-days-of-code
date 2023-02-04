@@ -58,4 +58,12 @@
 
 **Thoughts:** format from money to fload and and vice versa was easy, but keep this transformation on TextInput by hand wasn't. That's also a adhoc solution, I still need some improvements, like what if user copy and paste value?
 
-**Link to work:** [Three JS](https://github.com/drickchote/gastos/blob/main/src/utils.ts)
+**Link to work:** [utils.ts](https://github.com/drickchote/gastos/blob/main/src/utils.ts)
+
+##### Day 8: February 04, 2023
+
+**Today's Progress**: I connected my personal app to firestone and started saving expenses.
+
+**Thoughts:** This was easier that I thought. I bought a firebase course in the past but there was so many videos that I gave up. And this time I just need to create firestone database and use code provided by firebase.
+
+**Link to work:** [Firebase adding commit](https://github.com/drickchote/gastos/commit/d3cc7ebe4c7edd5c9bb1a2e3781ad94d9257adb3)
