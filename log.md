@@ -49,3 +49,13 @@
 **Today's Progress**: I learned and practiced three.js, a javascript library to render 3D elements. Tomorrow I'm going to use it to build a game at the Fubajam event, a game event at my university.
 
 **Thoughts:** This library is really powerful and I'm exciting for explore where else I can use it
+
+**Link to work:** [Three JS](https://github.com/drickchote/Three.js-example)
+
+##### Day 7: February 03, 2023
+
+**Today's Progress**: I made an mask algorithm for the money input of my personal app.
+
+**Thoughts:** format from money to fload and and vice versa was easy, but keep this transformation on TextInput by hand wasn't. That's also a adhoc solution, I still need some improvements, like what if user copy and paste value?
+
+**Link to work:** [Three JS](https://github.com/drickchote/gastos/blob/main/src/utils.ts)
