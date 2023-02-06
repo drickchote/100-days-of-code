@@ -67,3 +67,11 @@
 **Thoughts:** This was easier that I thought. I bought a firebase course in the past but there was so many videos that I gave up. And this time I just need to create firestone database and use code provided by firebase.
 
 **Link to work:** [Firebase adding commit](https://github.com/drickchote/gastos/commit/d3cc7ebe4c7edd5c9bb1a2e3781ad94d9257adb3)
+
+##### Day 9: February 05, 2023
+
+**Today's Progress**: I made a second screen for my personal app
+
+**Thoughts:** Was nice to use SectionList again
+
+**Link to work:** [ExpenseList screen commit](https://github.com/drickchote/Expenses/commit/c16b8f5f436f6d6085070db3e82f08174b961c5a)
