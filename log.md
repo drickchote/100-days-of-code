@@ -75,3 +75,11 @@
 **Thoughts:** Was nice to use SectionList again
 
 **Link to work:** [ExpenseList screen commit](https://github.com/drickchote/Expenses/commit/c16b8f5f436f6d6085070db3e82f08174b961c5a)
+
+##### Day 10: February 07, 2023
+
+**Today's Progress**: Today I continued the studies with threejs
+
+**Thoughts:** I was not for 100 days challenger, I was probraby not coding today haha
+
+**Link to work:** [commit](https://github.com/drickchote/Three.js-example/commit/daf6e88a13ec32ca26f4e336b6c381b9d554d294)
