@@ -83,3 +83,9 @@
 **Thoughts:** I was not for 100 days challenger, I was probraby not coding today haha
 
 **Link to work:** [commit](https://github.com/drickchote/Three.js-example/commit/daf6e88a13ec32ca26f4e336b6c381b9d554d294)
+
+##### Day 11: February 08, 2023
+
+**Today's Progress**: I rushed to finalize the algorithm for my final paper, which uses the Twitter api. Because the free twitter api will be closed today 🙂
+
+**Thoughts:** I was lucky to have started this code before, because my classes haven't even started yet lol
