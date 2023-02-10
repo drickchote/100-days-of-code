@@ -89,3 +89,7 @@
 **Today's Progress**: I rushed to finalize the algorithm for my final paper, which uses the Twitter api. Because the free twitter api will be closed today 🙂
 
 **Thoughts:** I was lucky to have started this code before, because my classes haven't even started yet lol
+
+##### Day 12: February 09, 2023
+
+**Today's Progress**: Today I continued with learning threejs by learning how to interact with the mouse on screen elements.
