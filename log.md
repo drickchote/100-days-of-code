@@ -98,3 +98,8 @@
 
 **Today's Progress**: I changed my scripts to get tweets using the Twitter API to be able to get a larger amount of tweets
 
+##### Day 14: February 12, 2023
+
+**Today's Progress**: Today I practiced clean architecture and TDD
+
+**Link to work:** [repository](https://github.com/drickchote/Clean-code-example)
