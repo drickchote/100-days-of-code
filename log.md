@@ -93,3 +93,8 @@
 ##### Day 12: February 09, 2023
 
 **Today's Progress**: Today I continued with learning threejs by learning how to interact with the mouse on screen elements.
+
+##### Day 13: February 10, 2023
+
+**Today's Progress**: I changed my scripts to get tweets using the Twitter API to be able to get a larger amount of tweets
+
