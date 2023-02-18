@@ -123,3 +123,9 @@
 **Thoughts:** It's amazing to be able to test the integration with things that haven't even been implemented yet
 
 **Link to work:** [commit list](https://github.com/drickchote/Clean-code-example/commits/master)
+
+##### Day 18: February 18, 2023
+
+**Today's Progress**: Today I continued practicing clean architecture and TDD, I could test integration of controller with email validator.
+
+**Link to work:** [commit list](https://github.com/drickchote/Clean-code-example/commits/master)
