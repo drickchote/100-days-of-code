@@ -129,3 +129,9 @@
 **Today's Progress**: Today I continued practicing clean architecture and TDD, I could test integration of controller with email validator.
 
 **Link to work:** [commit list](https://github.com/drickchote/Clean-code-example/commits/master)
+
+##### Day 19: February 20, 2023
+
+**Today's Progress**: Today I continued practicing clean architecture and TDD, I could test integration of controller with repositories.
+
+**Link to work:** [commit list](https://github.com/drickchote/Clean-code-example/commits/master)
